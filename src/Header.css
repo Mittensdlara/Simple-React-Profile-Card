@@ -1,0 +1,28 @@
+.header  .avatar {
+    width: 300px;
+    border-radius: 20px;
+}
+
+
+.header h1 {
+    margin-bottom: 1px;
+}
+
+.header p {
+    margin-top: 3px;
+    margin-bottom: 5px;
+    color: #F3BF99;
+}
+
+.linkedin-icon {
+    margin-left: 10px;
+    
+}
+.email-icon {
+    margin-right: 10px;
+    
+}
+
+.header a img {
+    margin-top: 10px;
+}

@@ -1,0 +1,11 @@
+.Footer {
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 1rem;
+    padding-bottom: 1rem;
+    border-radius: 0px 0px 10px 10px;
+}
+
+.twitter, .instagram, .facebook, .github {
+    border-radius: 5px;
+} 
